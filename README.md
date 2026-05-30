@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moorthi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **moorthikinyt@gmail.com**
 
